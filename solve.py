@@ -14,7 +14,6 @@ def try_len(l):
     width = stego.size[0]//l
     height = stego.size[1]//l
     for index in range(l):
-        # Loop once per supposed char length
         count = 0
         for i in range(width*index, width*(index+1)):
             for j in range(height*index, height*(index+1)):
@@ -27,7 +26,7 @@ l = 1
 while True:
     l += 1
     if l > stego.size[0]:
-        break # We're done. No flag, I guess.
+        break 
     flag = try_len(l)
     if not flag:
         continue
