@@ -12,4 +12,4 @@ The challenge can be solved by guessing the appropriate length of the flag, addi
 
 
 
-FLAG : yuctf{m0r3_RGB_st3g0}
+FLAG : yuctf{m0r3_st3g0}
