@@ -1,4 +1,4 @@
-# St3g0-Write-up
+# St3g0 Write-up
 
 Description :
 my friend color challenged me to get the flag but i'm very bad at steganography so help me get it 
@@ -9,3 +9,7 @@ This challenge was created by taking a flag, splitting it into individual charac
 
 
 The challenge can be solved by guessing the appropriate length of the flag, adding all the differences in each section to create a letter from the ASCII code, and seeing if it matches our flag format. (See solve.py )
+
+
+
+FLAG : yuctf{m0r3_RGB_st3g0}
