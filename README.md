@@ -1,5 +1,7 @@
 # St3g0 Write-up
 
+Category : Steganography
+
 Description :
 my friend color challenged me to get the flag but i'm very bad at steganography so help me get it 
 
