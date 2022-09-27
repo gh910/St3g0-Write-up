@@ -1,4 +1,4 @@
-# St3g0 Write-up
+# YUCTF St3g0 Write-up
 
 Category : Steganography
 
